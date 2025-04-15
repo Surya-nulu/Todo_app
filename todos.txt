@@ -1,9 +1,10 @@
 go
-ok
+chandu
 hello
 go to park 
 go to gym
-go school
+hackerrank
 hello kkd
 hello anna
 paduko
+kavyakavyanulusurya
