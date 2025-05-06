@@ -1,5 +1,4 @@
 surya
-byebye
 go to beach
 go to gym
 hackerrank
@@ -7,4 +6,3 @@ hello kkd
 hello anna
 paduko
 byebye
-rara
